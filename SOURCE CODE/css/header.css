@@ -1,0 +1,13 @@
+#top {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+#header-title {
+  text-align: center;
+  padding-bottom: 0px;
+  padding-top: 30px;
+  padding-left: 23px;
+  font-family: 'Monoton', cursive;
+}

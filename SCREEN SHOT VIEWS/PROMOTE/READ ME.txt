@@ -1,0 +1,9 @@
+Three 4 roles of account:
+
+USER : ROLE DEFAULT 'U'
+
+PLAYER : 'P' 
+
+MANAGER :'M' 
+
+ADMIN 	: 'A'

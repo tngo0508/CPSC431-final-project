@@ -1,0 +1,19 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  position: relative;
+}
+
+.container {
+  justify-content: center;
+      /* background-image: radial-gradient(circle at 47% 9%,#414141,#000);
+      color: white; */
+}
+
+.basket {
+  padding-top: 60px;
+  padding-bottom: 36px;
+}
+
+h4 {
+  font-family: 'Russo One', sans-serif;
+}

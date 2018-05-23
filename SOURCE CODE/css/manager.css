@@ -1,0 +1,22 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  position: relative;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 0px;
+  padding-top: 30px;
+  padding-left: 23px;
+  /* font-family: 'Monoton', cursive; */
+  /* text-align: center; */
+  font-family: 'Passion One', cursive;
+}
+
+.table {
+  text-align: center;
+}
+
+.form-inline {
+  justify-content: center;
+}
