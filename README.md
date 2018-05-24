@@ -1,5 +1,21 @@
 # WEB-MANAGEMENT-SPORT-TEAM
 
+# Table of content
+* [Installation and Configuration](#installation-and-configuration)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+  * [Adding Player to Team](#adding-player-to-team)
+  * [Create Team](#create-team)
+  * [Create Game](#create-game)
+  * [Mail System](#mail-system)
+  * [Profile Update](#profile-update)
+  * [Promote](#promote)
+  * [Stats update](#stats-update)
+* [Technology Used](#technology-used)
+* [Acknowledgements](#acknowledgements)
+* [Authors/Contributors](#authorscontributors)
+
 # Summary
 - In this project, my teammates and I used PHP and mySQL to design a web application where users can create their own tournamanents. There are four different types of user that are admin, manager, player, and normal user. Each type of user has different priviledges and functionality in the application.
 - Our website provides the functionality to completely manage a basketball league
@@ -27,8 +43,7 @@ You will need the following things properly installed on your computer.
 * `Visit http://localhost/SOURCE CODE`
 
 
-# User Documentation
-## Screenshots of NPKManagement
+# Usage
 ### ADDING PLAYER TO TEAM
 
 ![A1](https://github.com/tngo0508/CPSC431-final-project/blob/master/SCREEN%20SHOT%20VIEWS/ADDING%20PLAYER%20TO%20TEAM/add%20player%20to%20the%20game%20with%20stats%20NULL.PNG?raw=true)
